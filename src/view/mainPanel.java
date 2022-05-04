@@ -3,6 +3,7 @@ import java.awt.BorderLayout;
 
 import javax.swing.JPanel;
 
+@SuppressWarnings("serial")
 public class mainPanel extends JPanel {
 	
 	public mainPanel() {

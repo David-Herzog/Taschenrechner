@@ -6,6 +6,7 @@ import java.awt.GridLayout;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 
+@SuppressWarnings("serial")
 public class panelNorth extends JPanel {
 	
 	JTextField ausgabe = new JTextField();

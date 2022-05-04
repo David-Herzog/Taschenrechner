@@ -1,9 +1,9 @@
 package view;
-import java.awt.Color;
 import java.awt.Dimension;
 
 import javax.swing.JPanel;
 
+@SuppressWarnings("serial")
 public class panelSouth extends JPanel{
 	
 	public panelSouth() {

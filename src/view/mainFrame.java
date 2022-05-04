@@ -4,6 +4,7 @@ import java.awt.Dimension;
 import javax.swing.ImageIcon;
 import javax.swing.JFrame;
 
+@SuppressWarnings("serial")
 public class mainFrame extends JFrame{
 	
 	public mainFrame() {

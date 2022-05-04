@@ -9,6 +9,7 @@ import javax.swing.JPanel;
 
 import model.Model;
 
+@SuppressWarnings("serial")
 public class panelCenter extends JPanel {
 	
 	JButton one = new JButton("1");
